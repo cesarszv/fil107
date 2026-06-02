@@ -1,6 +1,8 @@
-# Evaluación final de Pensamiento Crítico
+# Pensamiento Critico 
 
+Docente: Mgr. Jesus Armando Roja Pantoja
 Estudiante: Cesar Sebastian Zambrana Ventura
+Fecha de realizacion: 2 de junio del 2026
 
 ## Parte 1: Planificación
 
